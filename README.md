@@ -15,7 +15,7 @@ This repository contains the full R-based analysis pipeline for the manuscript.
 | `3.merge_lmm_analysis.R` | Runs linear mixed-effects models to test ELA–brain–behavior associations. |
 | `4.mediation_by_lavaan.R` | Tests whether controllability mediates ELA's effects on behavior/cognition. |
 | `5.moderated_mediation.R` | Conducts moderated mediation (PROCESS model 59 logic) stratified by PRS for ADHD/ASD. |
-| `6. CLPM_analysis.R` | Runs longitudinal CLPM to assess brain–behavior coupling over time. |
+| `6.CLPM_analysis.R` | Runs longitudinal CLPM to assess brain–behavior coupling over time. |
 
 ---
 
